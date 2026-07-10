@@ -134,7 +134,7 @@ WHERE total_cost >
 
 
 
--- uery 7: Retrieve the top 2 most expensive matches sorted by base ticket price, skipping the absolute highest premium match.
+-- Query 7: Retrieve the top 2 most expensive matches sorted by base ticket price, skipping the absolute highest premium match.
 SELECT
     match_id,
     fixture,
